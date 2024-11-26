@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 5af931a97d2c6fd4597e8d3abe913d8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7529951380234449013
+    second: Ganhando (2)_0
+  - first:
+      213: -7645919701733787705
+    second: Ganhando (2)_1
+  - first:
+      213: 6253747464778874193
+    second: Ganhando (2)_2
+  - first:
+      213: -6771188823473310697
+    second: Ganhando (2)_3
+  - first:
+      213: -1697269730264577634
+    second: Ganhando (2)_4
+  - first:
+      213: 5985718932431855900
+    second: Ganhando (2)_5
+  - first:
+      213: -6482192378690308493
+    second: Ganhando (2)_6
+  - first:
+      213: 2793660295916691494
+    second: Ganhando (2)_7
+  - first:
+      213: -2069640896141553519
+    second: Ganhando (2)_8
+  - first:
+      213: 1790002458149547834
+    second: Ganhando (2)_9
+  - first:
+      213: 5669477800348542990
+    second: Ganhando (2)_10
+  - first:
+      213: 3492561536686540038
+    second: Ganhando (2)_11
+  - first:
+      213: 7199442164643461319
+    second: Ganhando (2)_12
+  - first:
+      213: 5732214657228583513
+    second: Ganhando (2)_13
+  - first:
+      213: 8972911036376971887
+    second: Ganhando (2)_14
+  - first:
+      213: -3921051724881724775
+    second: Ganhando (2)_15
+  - first:
+      213: 6010530944665456694
+    second: Ganhando (2)_16
+  - first:
+      213: 7183776320567508506
+    second: Ganhando (2)_17
+  - first:
+      213: 2024171483427851022
+    second: Ganhando (2)_18
+  - first:
+      213: 2449676946494064154
+    second: Ganhando (2)_19
+  - first:
+      213: -7653650408922145549
+    second: Ganhando (2)_20
+  - first:
+      213: -6810672431219213175
+    second: Ganhando (2)_21
+  - first:
+      213: -799647644863063484
+    second: Ganhando (2)_22
+  - first:
+      213: 342730029521155731
+    second: Ganhando (2)_23
+  - first:
+      213: 2749322872107442811
+    second: Ganhando (2)_24
+  - first:
+      213: -5405392009252741977
+    second: Ganhando (2)_25
+  - first:
+      213: 1521763198402644298
+    second: Ganhando (2)_26
+  - first:
+      213: 6505389291455639315
+    second: Ganhando (2)_27
+  - first:
+      213: -8500442867106836747
+    second: Ganhando (2)_28
+  - first:
+      213: 6265095259352522613
+    second: Ganhando (2)_29
+  - first:
+      213: 6642884621455155815
+    second: Ganhando (2)_30
+  - first:
+      213: 4367099426249692029
+    second: Ganhando (2)_31
+  - first:
+      213: 4370336749899011975
+    second: Ganhando (2)_32
+  - first:
+      213: -6526956717994714482
+    second: Ganhando (2)_33
+  - first:
+      213: -3565541667311119725
+    second: Ganhando (2)_34
+  - first:
+      213: 8074754019114527479
+    second: Ganhando (2)_35
+  - first:
+      213: -9192372462473928676
+    second: Ganhando (2)_36
+  - first:
+      213: 6722947417470882916
+    second: Ganhando (2)_37
+  - first:
+      213: -3862049535020052678
+    second: Ganhando (2)_38
+  - first:
+      213: 719745693246427684
+    second: Ganhando (2)_39
+  - first:
+      213: 7471705718165979492
+    second: Ganhando (2)_40
+  - first:
+      213: -984971659543394074
+    second: Ganhando (2)_41
+  - first:
+      213: 968720133818904812
+    second: Ganhando (2)_42
+  - first:
+      213: -4384361434090723574
+    second: Ganhando (2)_43
+  - first:
+      213: 4439538688058789159
+    second: Ganhando (2)_44
+  - first:
+      213: 8254834462664256226
+    second: Ganhando (2)_45
+  - first:
+      213: -1041433272322846401
+    second: Ganhando (2)_46
+  - first:
+      213: -7489840486415424975
+    second: Ganhando (2)_47
+  - first:
+      213: 2049797371575382669
+    second: Ganhando (2)_48
+  - first:
+      213: -202968653411837446
+    second: Ganhando (2)_49
+  - first:
+      213: 5637737395118399328
+    second: Ganhando (2)_50
+  - first:
+      213: -7073544474252193112
+    second: Ganhando (2)_51
+  - first:
+      213: -2044751446898157403
+    second: Ganhando (2)_52
+  - first:
+      213: 4442460511701035231
+    second: Ganhando (2)_53
+  - first:
+      213: -3622740047495039313
+    second: Ganhando (2)_54
+  - first:
+      213: -469807391561507257
+    second: Ganhando (2)_55
+  - first:
+      213: 7655215114562858151
+    second: Ganhando (2)_56
+  - first:
+      213: 7599090850937261123
+    second: Ganhando (2)_57
+  - first:
+      213: -1391382388789596053
+    second: Ganhando (2)_58
+  - first:
+      213: 4063426525050923181
+    second: Ganhando (2)_59
+  - first:
+      213: -8596894061487009619
+    second: Ganhando (2)_60
+  - first:
+      213: -7409637293191556797
+    second: Ganhando (2)_61
+  - first:
+      213: 562601930493527160
+    second: Ganhando (2)_62
+  - first:
+      213: -2688672042874472762
+    second: Ganhando (2)_63
+  - first:
+      213: -3858226902599958180
+    second: Ganhando (2)_64
+  - first:
+      213: 7327122314047843555
+    second: Ganhando (2)_65
+  - first:
+      213: -5773261553768964923
+    second: Ganhando (2)_66
+  - first:
+      213: 7917877459077217002
+    second: Ganhando (2)_67
+  - first:
+      213: 93068135036507539
+    second: Ganhando (2)_68
+  - first:
+      213: 5379055361138030725
+    second: Ganhando (2)_69
+  - first:
+      213: -1365420483584414401
+    second: Ganhando (2)_70
+  - first:
+      213: -2997210009853332683
+    second: Ganhando (2)_71
+  - first:
+      213: 5811551803928808762
+    second: Ganhando (2)_72
+  - first:
+      213: -3361427015961928338
+    second: Ganhando (2)_73
+  - first:
+      213: 2988140181596643612
+    second: Ganhando (2)_74
+  - first:
+      213: -2111423677128522206
+    second: Ganhando (2)_75
+  - first:
+      213: -1825364608378999
+    second: Ganhando (2)_76
+  - first:
+      213: -465075407592841426
+    second: Ganhando (2)_77
+  - first:
+      213: -3091788291696040266
+    second: Ganhando (2)_78
+  - first:
+      213: 6300084831189246238
+    second: Ganhando (2)_79
+  - first:
+      213: 2028768243267294302
+    second: Ganhando (2)_80
+  - first:
+      213: 1524006263889856034
+    second: Ganhando (2)_81
+  - first:
+      213: 355362003828995176
+    second: Ganhando (2)_82
+  - first:
+      213: -5900138205809045332
+    second: Ganhando (2)_83
+  - first:
+      213: 1430690124297828633
+    second: Ganhando (2)_84
+  - first:
+      213: -6887647518088525592
+    second: Ganhando (2)_85
+  - first:
+      213: -7483381687620884981
+    second: Ganhando (2)_86
+  - first:
+      213: 1150872618651599651
+    second: Ganhando (2)_87
+  - first:
+      213: -2282276258922659979
+    second: Ganhando (2)_88
+  - first:
+      213: -6382004300401250416
+    second: Ganhando (2)_89
+  - first:
+      213: -2267970118936049254
+    second: Ganhando (2)_90
+  - first:
+      213: 8551634592463029107
+    second: Ganhando (2)_91
+  - first:
+      213: 5636572652804396376
+    second: Ganhando (2)_92
+  - first:
+      213: -3867222913092474887
+    second: Ganhando (2)_93
+  - first:
+      213: 1224621187774098449
+    second: Ganhando (2)_94
+  - first:
+      213: -2280060142106524993
+    second: Ganhando (2)_95
+  - first:
+      213: -2620515460020424826
+    second: Ganhando (2)_96
+  - first:
+      213: -4218185852433206197
+    second: Ganhando (2)_97
+  - first:
+      213: 1958014535641348887
+    second: Ganhando (2)_98
+  - first:
+      213: -4520623934473985014
+    second: Ganhando (2)_99
+  - first:
+      213: 969078414338917341
+    second: Ganhando (2)_100
+  - first:
+      213: -3918502911577043839
+    second: Ganhando (2)_101
+  - first:
+      213: -6094553784211791693
+    second: Ganhando (2)_102
+  - first:
+      213: 6062330599117970841
+    second: Ganhando (2)_103
+  - first:
+      213: -7030556988872648688
+    second: Ganhando (2)_104
+  - first:
+      213: 2038697473192812896
+    second: Ganhando (2)_105
+  - first:
+      213: 1732903901945888599
+    second: Ganhando (2)_106
+  - first:
+      213: -4926334277954366053
+    second: Ganhando (2)_107
+  - first:
+      213: 6958663653662754075
+    second: Ganhando (2)_108
+  - first:
+      213: 8326345819309448387
+    second: Ganhando (2)_109
+  - first:
+      213: -3702671718487197071
+    second: Ganhando (2)_110
+  - first:
+      213: 2103560535415416972
+    second: Ganhando (2)_111
+  - first:
+      213: 861706618637152387
+    second: Ganhando (2)_112
+  - first:
+      213: 5307755387302305945
+    second: Ganhando (2)_113
+  - first:
+      213: -743911035183076693
+    second: Ganhando (2)_114
+  - first:
+      213: 7596451120064656325
+    second: Ganhando (2)_115
+  - first:
+      213: 1332049058860710698
+    second: Ganhando (2)_116
+  - first:
+      213: 8077436462181843455
+    second: Ganhando (2)_117
+  - first:
+      213: 7983909361436021394
+    second: Ganhando (2)_118
+  - first:
+      213: 4038215003315134014
+    second: Ganhando (2)_119
+  - first:
+      213: 5920159029178768543
+    second: Ganhando (2)_120
+  - first:
+      213: -360076410628069985
+    second: Ganhando (2)_121
+  - first:
+      213: 1761380388373644327
+    second: Ganhando (2)_122
+  - first:
+      213: -8901987842840129073
+    second: Ganhando (2)_123
+  - first:
+      213: 3728457040156559175
+    second: Ganhando (2)_124
+  - first:
+      213: 1967047386232470628
+    second: Ganhando (2)_125
+  - first:
+      213: -1147615800543650313
+    second: Ganhando (2)_126
+  - first:
+      213: 3959587021502433306
+    second: Ganhando (2)_127
+  - first:
+      213: 7359337775822420978
+    second: Ganhando (2)_128
+  - first:
+      213: 4899327047932008539
+    second: Ganhando (2)_129
+  - first:
+      213: 8852559079037541071
+    second: Ganhando (2)_130
+  - first:
+      213: 6669586260441105268
+    second: Ganhando (2)_131
+  - first:
+      213: -8500530369531547587
+    second: Ganhando (2)_132
+  - first:
+      213: -6050005587397951686
+    second: Ganhando (2)_133
+  - first:
+      213: -8490214361591669657
+    second: Ganhando (2)_134
+  - first:
+      213: 4888158217351167035
+    second: Ganhando (2)_135
+  - first:
+      213: -8916395262143540098
+    second: Ganhando (2)_136
+  - first:
+      213: 49141859418629525
+    second: Ganhando (2)_137
+  - first:
+      213: -1972159533412264658
+    second: Ganhando (2)_138
+  - first:
+      213: 4458014303335009383
+    second: Ganhando (2)_139
+  - first:
+      213: 2057694337084782744
+    second: Ganhando (2)_140
+  - first:
+      213: 5659920892238362533
+    second: Ganhando (2)_141
+  - first:
+      213: -2689055249943554167
+    second: Ganhando (2)_142
+  - first:
+      213: -4618062532372233445
+    second: Ganhando (2)_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ganhando (2)_0
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 10069
+        width: 5771
+        height: 4403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ed264b8af0fab47929b7ef4e0fc741
+      internalID: -1743532482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ganhando (2)_1
+      rect:
+        serializedVersion: 2
+        x: 9096
+        y: 10330
+        width: 5795
+        height: 2751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b928c19b9d6441bbcd0a9fbf8775a
+      internalID: 1178224461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ganhando (2)_10
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2178
+        width: 5850
+        height: 3720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a083a6fc6c73244d98a53a810530b9e
+      internalID: -1539268620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 98fdca6b2fabff34b987046359054d95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ganhando (2)_0: -1743532482
+      Ganhando (2)_1: 1178224461
+      Ganhando (2)_10: -1539268620
+      Ganhando (2)_2: -2041023285
+      Ganhando (2)_3: -204147345
+      Ganhando (2)_4: -1251352113
+      Ganhando (2)_5: -642379344
+      Ganhando (2)_6: -1645101392
+      Ganhando (2)_7: 1380228431
+      Ganhando (2)_8: -673392605
+      Ganhando (2)_9: -1584119897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
