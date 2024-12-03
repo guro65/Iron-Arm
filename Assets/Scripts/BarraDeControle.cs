@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class BarraDeControle : MonoBehaviour
@@ -62,11 +63,19 @@ public class BarraDeControle : MonoBehaviour
     {
         painelDerrota.SetActive(true); // Exibe o painel de derrota
         Time.timeScale = 0f; // Pausa o jogo
+        if (Input.GetKey(KeyCode.Space))
+        {
+            SceneManager.LoadScene("Menu");
+        }
     }
 
     void Vitoria()
     {
         painelVitoria.SetActive(true); // Exibe o painel de vitória
         Time.timeScale = 0f; // Pausa o jogo
+        if (Input.GetKey(KeyCode.Space))
+        {
+            SceneManager.LoadScene("Menu");
+        }
     }
 }

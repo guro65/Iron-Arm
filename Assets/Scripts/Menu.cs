@@ -3,7 +3,14 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-   public void Jogar()
+    public void Update()
+    {
+        if (Input.GetKey(KeyCode.Space))
+        {
+            SceneManager.LoadScene("Jogo");
+        }
+    }
+    public void Jogar()
    {
         SceneManager.LoadScene("Jogo");
    }
